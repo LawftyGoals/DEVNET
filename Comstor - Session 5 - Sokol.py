@@ -32,7 +32,7 @@ while infected < 1000000:
     carriers.pop(0)
     dayNr+=1
 
-    ###################TASK3
+###################TASK3
 
 firewall_model = {"FPR-1010":650, "FPR-1120":1500, "FPR-1140":2200, "FPR-1150":3000}
 

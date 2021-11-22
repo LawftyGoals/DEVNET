@@ -1,8 +1,4 @@
-Aruba, a Hewlett Packard Enterprise Company:104f58a0ab00
-Aruba, a Hewlett Packard Enterprise Company:104f58a0ab04
-Aruba, a Hewlett Packard Enterprise Company:104f58a0ab00
-Palo Alto Networks:945641440000
-Palo Alto Networks:945641440031
+Hewlett Packard Enterprise:dc680c4830fb
 Schneider Electric:000054ff9ca0
 Schneider Electric:000054ff9cdc
 Carel s.p.a.:000a5c81eee6
@@ -10,33 +6,35 @@ Carel s.p.a.:000a5c81eee7
 Carel s.p.a.:000a5c81eee8
 Carel s.p.a.:000a5c81eee9
 Carel s.p.a.:000a5c81efa8
-SWEGON AB:00127c05acbc
-SWEGON AB:00127c05dd33
+CARLO GAVAZZI CONTROLS SPA-Controls Division:0019ee10fddd
 Honeywell GmbH:0030af11c480
 TAC AB:00500601beab
 AXIOM TECHNOLOGY CO., LTD.:0060e0760ec1
 Tosibox Oy:109ab9036855
-Texas Instruments:1442fce55890
 Phytec Messtechnik GmbH:502df41cbe80
 Phytec Messtechnik GmbH:502df41cc3b5
 Phytec Messtechnik GmbH:502df41d86fd
 Saia-Burgess Controls AG:7c160d4e4423
 Saia-Burgess Controls AG:7c160dfe6c50
 Palo Alto Networks:945641440031
-HP Inc.:3024a9a2a83b
-HP Inc.:3024a9a2b68a
+Palo Alto Networks:945641440031
 Palo Alto Networks:945641440031
 Cisco Meraki:ac17c80f595d
-<Response [404]>:065719d5ff97
-<Response [404]>:42531ac432a9
-<Response [404]>:5ac007f09058
+Zyxel Communications Corporation:cc5d4ec7a147
+Aruba, a Hewlett Packard Enterprise Company:104f58a333c0
+Palo Alto Networks:945641440031
+Hewlett Packard Enterprise:dc680c4830e3
+KONICA MINOLTA HOLDINGS, INC.:00206ba20936
+HUAWEI TECHNOLOGIES CO.,LTD:407d0ff292a0
+HUAWEI TECHNOLOGIES CO.,LTD:407d0ff292e0
+HUAWEI TECHNOLOGIES CO.,LTD:407d0ff29320
+Palo Alto Networks:945641440031
 Intel Corporate:782b463a6524
-HUAWEI TECHNOLOGIES CO.,LTD:7ca1773dacea
 Hon Hai Precision Ind. Co.,Ltd.:7ce9d365b226
 Palo Alto Networks:945641440031
 <Response [404]>:a298892b74b1
-<Response [404]>:ca0eaf92c63f
-<Response [404]>:d651f9c277c8
+Intel Corporate:dc41a93be697
+Apple, Inc.:ec35864497b2
 Slim Devices, Inc.:00042029dd8e
 AAEON Technology Inc.:00073235860f
 Advantech Technology (CHINA) Co., Ltd.:000babbc3114
@@ -87,6 +85,7 @@ Zhejiang Dahua Technology Co., Ltd.:4c11bf97a517
 Zhejiang Dahua Technology Co., Ltd.:4c11bf97a519
 Zhejiang Dahua Technology Co., Ltd.:4c11bf97a51a
 INGENICO:547f54a9a49d
+INGENICO:54e1403ebad9
 iLOQ Oy:70b3d5cfd8c3
 Zhejiang Dahua Technology Co., Ltd.:9002a9d06b53
 Zhejiang Dahua Technology Co., Ltd.:9002a9d06b55
@@ -149,21 +148,12 @@ Zhejiang Dahua Technology Co., Ltd.:e0508b6a5473
 Zhejiang Dahua Technology Co., Ltd.:e0508b6a5481
 Zhejiang Dahua Technology Co., Ltd.:e0508b6a548d
 Accelerated Concepts, Inc:0027044661fb
-Cisco Meraki:ac17c80f5958
 Cisco Systems, Inc:ac7e8addc18a
-Cisco Systems, Inc:ac7e8addc1c1
 Elitegroup Computer Systems Co.,Ltd.:b8aeed709cc7
 Elitegroup Computer Systems Co.,Ltd.:b8aeed75c0b8
-Aruba, a Hewlett Packard Enterprise Company:104f5894254c
-Aruba, a Hewlett Packard Enterprise Company:104f58acb716
-Point Grey Research Inc.:00b09d130010
-Point Grey Research Inc.:00b09d13005d
-Point Grey Research Inc.:00b09d130069
-Point Grey Research Inc.:00b09d13006b
 Cisco Meraki:0c8ddb715fd2
 Cisco Meraki:0c8ddb716002
 Cisco Meraki:0c8ddb71601a
-Cisco Meraki:ac17c80f5958
 Cisco Meraki:e0cbbc332bf5
 Cisco Meraki:e0cbbc33a5a8
 Cisco Meraki:e0cbbc3b1fc5
@@ -171,8 +161,3 @@ Cisco Meraki:e0cbbc3b6275
 Cisco Meraki:e0cbbc3bb4a8
 Cisco Meraki:e0cbbc3bb4b0
 Cisco Meraki:e0cbbc3bbbe0
-Guang Lian Zhi Tong Technology Limited:e4956e431f3b
-Guang Lian Zhi Tong Technology Limited:e4956e437182
-Guang Lian Zhi Tong Technology Limited:e4956e437184
-Guang Lian Zhi Tong Technology Limited:e4956e437196
-Guang Lian Zhi Tong Technology Limited:e4956e43733a

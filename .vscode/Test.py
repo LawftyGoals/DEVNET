@@ -1,0 +1,48 @@
+{
+    "status":"success","data":
+    {
+        "coin":
+        {
+            "uuid":"Qwsogvtv82FCd","symbol":"BTC","name":"Bitcoin","description":"<p>Bitcoin is the first digital currency that allows users to send and receive money, without the interference of a central bank or government. Instead, a network of thousands of peers is controlling the transactions; a decentralized system.</p>\n\n<h3>Why does bitcoin have value?</h3>\n\n<p>Bitcoin&rsquo;s useful qualities (decentralized, borderless, secure) aren&rsquo;t the only reason the coin is worth so much. Due to its scarcity (and it&rsquo;s hard to produce), Bitcoin is often nicknamed &lsquo;Digital Gold&rsquo;, in reference to &lsquo;classic&rsquo; physical gold. Like gold, Bitcoin also has a finite supply of coins available; there will only ever be 21 million bitcoin. And now you know why the creation of new bitcoins is also called mining.</p>\n\n<h3>No inflation in bitcoin</h3>\n\n<p>Bitcoin was invented in response to a few concerns the inventor(s) had, such as inflation. Its supply is limited, so one cannot just devalue the currency by printing more, as governments often do with fiat currencies (USD, EUR, etc.).</p>\n\n<p>As people look for alternative places to keep their money rather than losing value in a negative interest rate account, Bitcoin becomes more appealing. Big global companies, such as Tesla and MicroStrategy already purchased serious amounts of Bitcoin. And it&#39;s only a matter of time that other companies will follow. This also ensures that the value remains or continues to increase.</p>\n\n<h3>Who built Bitcoin</h3>\n\n<p>In 2008, Bitcoin was invented by an anonymous person or group named Satoshi Nakamoto. In 2009, Bitcoin was released as open-source software. Nakamoto&rsquo;s real identity is still unknown, although there are many theories about who it might be. Decentralization is one of Bitcoin&rsquo;s most important principles, and that&rsquo;s why this anonymity is perfectly in line.</p>\n\n<h3>The technology of Bitcoin</h3>\n\n<p>The Bitcoin blockchain is a database, the so-called &lsquo;ledger&rsquo;, that consists of bitcoin transaction records. For new transactions to be added to the ledger, the nodes must agree that the transaction is real and valid. The blockchain is public and contains records of all the transactions taking place.</p>\n\n<h3>How to buy bitcoin?</h3>\n\n<p>Continue reading <a href=\"https://coinranking.com/blog/how-to-buy-your-first-bitcoin/\" rel=\"nofollow noopener\" target=\"_blank\">this blog article</a> on how to buy your first bitcoin.</p>\n","color":"#f7931A","iconUrl":"https://cdn.coinranking.com/bOabBYkcX/bitcoin_btc.svg","websiteUrl":"https://bitcoin.org","links":
+            [
+                {
+                    "name":"bitcoin.org","type":"website","url":"https://bitcoin.org"
+                },
+                {
+                    "name":"Bitcoin Whitepaper","url":"https://bitcoin.org/bitcoin.pdf","type":"website"
+                },
+                {
+                    "name":"bitcoinmagazine.com","url":"https://bitcoinmagazine.com/","type":"website"
+                },
+                {
+                    "name":"BitcoinTalk","url":"https://bitcointalk.org/","type":"bitcointalk"
+                },
+                {
+                    "name":"blockchain.com","url":"https://www.blockchain.com/explorer","type":"explorer"
+                },
+                {
+                    "name":"bitcoin/bitcoin","url":"https://github.com/bitcoin/bitcoin","type":"github"
+                },
+                {
+                    "name":"r/bitcoin","url":"https://www.reddit.com/r/bitcoin/","type":"reddit"
+                },
+                {
+                    "name":"Bitcoin_Magazine","url":"https://t.me/Bitcoin_Magazine","type":"telegram"
+                },
+                {
+                    "name":"bitcoin","url":"https://t.me/bitcoin","type":"telegram"
+                }
+            ],
+            "supply":{
+                "confirmed":true,"total":"18880225","circulating":"18880225"
+            },
+            "numberOfMarkets":21814,"numberOfExchanges":346,"24hVolume":"29383910218.09901786426135807962","marketCap":"1091021207239.63099824126463137363","price":"57786.4515512728793349266","btcPrice":"1","change":"-2.13970755171961","rank":1,"sparkline":
+            [
+                "59049.9477424035698354046","59059.68723887348206189571","58883.72185058199296695746","58941.14885653896493304253","59217.2188572442476687478","59553.26088986664384273698","59609.99631151363491758633","59471.13754577515075522339","59361.52194612778410525161","59472.88288210443965375734","59514.00184721736781944656","59267.58044659398473283176","59045.4777381184850171232","58264.91543600634743166919","58086.24371141703751537957","57820.04715661363962604974","57634.42606776363600992041","57396.8930560834455375695","57165.15576574651087867609","57342.7214554237832846692","57440.45602522601277922047","57424.89446200417966615299","57494.15148396348699430961","57318.26957403405053715761","57339.72878645584599730878","57345.73927125135583979194","57786.4515512728793349266"
+            ],
+            "allTimeHigh":{
+                "price":"67566.47480103343","timestamp":1636416000
+            },"coinrankingUrl":"https://coinranking.com/coin/Qwsogvtv82FCd+bitcoin-btc","tier":1,"lowVolume":false
+        }
+    }
+}
